@@ -1,0 +1,1 @@
+<?php include('../libraries/resources/admin_views/components/dashboard.php'); ?>

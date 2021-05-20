@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url('libraries/resources/landing_views/img/hacker.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.navbar_landing {
+    background-color: rgba(0, 0, 0, 0.1);
+    width: 100%;
+    /* height: 60px; */
+    box-shadow: 0 0 30px rgb(6, 185, 230);
+}
+
+#logo-name {
+    padding: 15px;
+    font-size: 23px;
+    font-family: 'New Tegomin', serif;
+    color: rgb(6, 185, 230);
+}
+
+.title-name {
+    margin-left: 10px;
+}
+
+.btn_cancel {
+    margin-right: 5px;
+}

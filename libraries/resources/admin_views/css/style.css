@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f4f4f4;
+}
+
+.sidenav {
+    width: 300px;
+    height: 100vh;
+    background-color: #fff;
+    box-shadow: 0 0 10px #000;
+    position: fixed;
+}
+
+.side_name {
+    margin-top: 15px;
+}
+
+.side_icon {
+    margin-left: 40px;
+    margin-right: 15px;
+}
+
+.side_link {
+    font-size: 17px;
+    
+}
+
+.nav-link {
+    padding: 15px 0;
+    color: #000;
+}
+
+.nav-link:hover {
+    background-color: #000;
+    color: #fff;
+}
+
+/* navbar */
+.nav_header {
+    margin-left: 300px;
+    background-color: #fff;
+    width: 100%;
+    /* height: 80px; */
+    box-shadow: 0 0 10px #000;
+}
+
+.nav_logo {
+    padding-left: 40px;
+    padding-right: 20px;
+}
+
+.nav_name {
+    font-family: 'New Tegomin', serif;
+}
+
+#btn_logout {
+    margin-left: 550px;
+}
+
+/* table */
+#main_table{
+    margin-left: 300px; 
+}
+
+#main_form {
+    margin-left: 300px;
+}
+
+#btnSubmit {
+    float: right;
+}
+
+/* admin dashboard */
+.admin_dash {
+    margin-left: 300px;
+}
+
+#card_1 {
+    background-color: #004FAF;
+}
+
+#card_2 {
+    /* background-color: #E71919; */
+    background-color: #b22234;
+}
+
+#card_3 {
+    /* background-color: #FFDF32; */
+    background-color: #FFD33c;
+    /* background-color: #f7d000 ; */
+    /* background-color: #e8d300; */
+}
+
+.count_user{
+    padding-left: 20px;
+    color: #fff;
+}
+
+.card_icon {
+    color: #fff;
+    padding: 20px;
+    margin: 0 20px 0 20px;
+}
+
+#card_user {
+    padding: 25px 0 5px 20px;
+}
